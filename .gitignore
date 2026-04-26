@@ -1,0 +1,56 @@
+# Gradle
+.gradle
+build/
+*.gradle.lock
+
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+captures/
+.externalNativeBuild
+.cxx/
+local.properties
+
+# Java
+*.class
+*.jar
+*.war
+*.aar
+*.jks
+*.keystore
+
+# Kotlin
+*.kt.bak
+*.kexe
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Misc
+*.log
+*.stackdump
+
+# Generated files
+gen/
+out/
+
+# Test reports
+test-results/
+reports/
+
+# Release files
+keystore.jks
+signing.properties
